@@ -1,0 +1,9 @@
+food = "Taco"
+is_delicious = true
+food = "pizza"
+num2 = 20
+num7 = 40
+quotient = num7 / num2
+songs = ["Never", "Gonna", "Give", "You", "Up"]
+songs.shift()
+food.length
